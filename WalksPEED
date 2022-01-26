@@ -1,0 +1,12 @@
+
+WalkSpeed.Name = "WalkSpeed"
+WalkSpeed.Parent = Main_Scripts_2
+WalkSpeed.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+WalkSpeed.BorderColor3 = Color3.fromRGB(0, 0, 0)
+WalkSpeed.Position = UDim2.new(0.227499634, 0, 0.178774685, 0)
+WalkSpeed.Size = UDim2.new(0.522376716, 0, 0.0971070603, 0)
+WalkSpeed.Font = Enum.Font.Cartoon
+WalkSpeed.Text = "Walkspeed (X)"
+WalkSpeed.TextColor3 = Color3.fromRGB(255, 255, 255)
+WalkSpeed.TextSize = 16.000
+WalkSpeed.TextWrapped = true
